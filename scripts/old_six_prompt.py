@@ -128,8 +128,8 @@ class Script(scripts.Script):
                 
                 
             with gr.Row(elem_id=eid):
-                       with gr.Accordion(label="SixGod_Translate v1.65.1",open=False):
-                             gr.HTML('<a class="oldsix-tips" href="https://github.com/ubohex/sdTRANSLATE/">【Инструкция】')
+                       with gr.Accordion(label="oldsix-promptRU v1",open=False):
+                             gr.HTML('<a class="oldsix-tips" href="https://github.com/ubohex/sd-webui-oldsix-promptRU/">【Инструкция】')
                             
                              textarea=gr.TextArea(self.json,elem_id=tid,visible=False)
                              traninput=gr.Textbox(elem_classes="old-six-traninput",visible=False,show_label="",placeholder="Панель работы с токенами - ALT+Q")
