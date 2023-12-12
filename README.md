@@ -6,10 +6,10 @@
 * Перевод делался на чистом энтузиазме и для личного пользования - строго не судите :)
 --- 
 
-  <p> Подписывайтесь на наш канал в Telegram</p>
+  <p> Подписывайтесь на наш Telegram канал </p>
  
 * StableDiffusion Step by Step - https://t.me/SD_Step_by_Step
-# <img src="imgs/tg.jpg" width="300" height="400" />
+# <img src="imgs/tg.jpg" width="400" height="400" />
 
 ### Установка в Stable Diffusion WebUI AUTOMATIC1111:
   * Extensions - Install from URL - URL for extension's git repository:
