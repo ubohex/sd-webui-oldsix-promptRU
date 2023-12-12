@@ -14,7 +14,7 @@
 ### Установка в Stable Diffusion WebUI AUTOMATIC1111:
   * Extensions - Install from URL - URL for extension's git repository:
   ```
-     http://github.com/ubohex/sd-webui-oldsix-promptRU.git
+http://github.com/ubohex/sd-webui-oldsix-promptRU.git
   ```
  
 --- 
