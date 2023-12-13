@@ -8,7 +8,7 @@
 
   <p><b> Подписывайтесь на нашу группу в Telegram </b></p>
 <p>Обсуждаем и делимся интересными промтами, публикуем свежие новости из мира ИИ, общаемся и просто хорошо проводим время :) </p>
-* StableDiffusion Step by Step - https://t.me/SD_Step_by_Step
+*** StableDiffusion Step by Step - https://t.me/SD_Step_by_Step ***
 <img src="imgs/tg.jpg" width="400" height="400" />
 
 ### Установка в Stable Diffusion WebUI AUTOMATIC1111:
