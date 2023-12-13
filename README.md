@@ -6,8 +6,8 @@
 * Перевод делался на чистом энтузиазме и для личного пользования - строго не судите :)
 --- 
 
-  <p> Подписывайтесь на наш Telegram канал </p>
- 
+  <p> Подписывайтесь на нашу группу в Telegram </p>
+
 * StableDiffusion Step by Step - https://t.me/SD_Step_by_Step
 # <img src="imgs/tg.jpg" width="400" height="400" />
 
