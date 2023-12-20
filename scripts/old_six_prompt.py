@@ -128,7 +128,7 @@ class Script(scripts.Script):
                 
                 
             with gr.Row(elem_id=eid):
-                       with gr.Accordion(label="oldsix-promptRU v2",open=False):
+                       with gr.Accordion(label="oldsix-promptRU v1",open=False):
                              gr.HTML('<a class="oldsix-tips" href="https://github.com/ubohex/sd-webui-oldsix-promptRU/">【Инструкция】')
                             
                              textarea=gr.TextArea(self.json,elem_id=tid,visible=False)
