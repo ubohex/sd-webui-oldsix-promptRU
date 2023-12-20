@@ -9,9 +9,10 @@
   <p><b> Подписывайтесь на нашу группу в Telegram </b></p>
 <p>Обсуждаем и делимся интересными промтами, публикуем свежие новости из мира ИИ, общаемся и просто хорошо проводим время :) </p>
 
-<h1 align="center"> <a href="https://t.me/SD_Step_by_Step" target="_blank">StableDiffusion Step by Step</a> <br>
+<h1 align="center"> <a href="https://t.me/SD_Step_by_Step" target="_blank">StableDiffusion Step by Step  </a> <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=https%3A%2F%2Ft.me%2FSD_Step_by_Step" alt="Typing SVG" /></a><br>
 <img src="imgs/tg.jpg" width="400" height="400" /><br>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&lines=https%3A%2F%2Ft.me%2FSD_Step_by_Step)](https://git.io/typing-svg)
+
 	
 ### Установка в Stable Diffusion WebUI AUTOMATIC1111:
   * Extensions - Install from URL - URL for extension's git repository:
